@@ -5,7 +5,7 @@ Este proyecto usa la librería `turtle` de Python para dibujar fuegos artificial
 
 Este proyecto forma parte de mi portafolio personal. 
 
-![Fireworks portada](fireworks-portada.png)
+![Fireworks portada](fireworks-portada.PNG)
 
 ## Licencia Este repositorio está bajo la licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). 
 
