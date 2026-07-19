@@ -97,6 +97,6 @@ Part of a personal digital art and programming portfolio.
 ## Licencia Este repositorio está bajo la licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). 
 
 ## Créditos Este proyecto incluye código adaptado del tutorial "Python Fireworks" del canal eeprogrammer en YouTube. 
-El propósito es mostrar mi aprendizaje y adaptación, no reclamar autoría original.
+The purpose of this project is to demonstrate my learning process and adaptation, not to claim original authorship.
 
 
